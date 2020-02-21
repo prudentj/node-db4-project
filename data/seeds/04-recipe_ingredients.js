@@ -22,7 +22,7 @@ exports.seed = function(knex) {
 		},
 		{
 			recipe_id: 2,
-			ingredient_id: 3,
+			ingredient_id: 4,
 			quantity: 1.5
 		}
 	]);
